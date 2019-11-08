@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context=".MainActivity">
+
+    <androidx.cardview.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:cardUseCompatPadding="true"
+        app:cardCornerRadius="5dp">
+
+        <bg.devlabs.fullscreenvideoview.FullscreenVideoView
+            android:id="@+id/fullscreenVideoView"
+            android:layout_width="match_parent"
+            android:layout_height="250dp" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Title"
+            android:textColor="@android:color/black"
+            android:textSize="18dp"
+            android:layout_marginTop="255dp"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="14dp"
+            android:textColor="@android:color/black"
+            android:layout_marginTop="275dp"
+            android:layout_marginBottom="10dp"
+            android:text="Page no."/>
+    </androidx.cardview.widget.CardView>
+</RelativeLayout>

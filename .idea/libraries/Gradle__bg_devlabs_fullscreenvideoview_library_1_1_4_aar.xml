@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: bg.devlabs.fullscreenvideoview:library:1.1.4@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/1734f154ccb1c892f486ec0833f91851/jetified-library-1.1.4/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/1734f154ccb1c892f486ec0833f91851/jetified-library-1.1.4/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/bg.devlabs.fullscreenvideoview/library/1.1.4/719f3c5c0a72cc1a7af06f5a759d138d6aa6f89/library-1.1.4-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/bg.devlabs.fullscreenvideoview/library/1.1.4/488f45370a3e422b78658c6b3c0f0e06fba5786d/library-1.1.4-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
